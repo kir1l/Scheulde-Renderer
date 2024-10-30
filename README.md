@@ -56,7 +56,7 @@ renderer.render_week_schedule(week_schedule, 'week_schedule.png')
 
 The ScheduleRenderer class accepts various parameters for customization:
 
-- `scale_factor`: scale_factor: Controls overall size of the output image
+- `scale_factor`: Controls overall size of the output image
 - Colors can be customized through class properties
 - Font sizes and padding are adjustable
 
